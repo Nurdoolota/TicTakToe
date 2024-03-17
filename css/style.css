@@ -15,6 +15,10 @@ main {
     padding: 25px;
 }
 
+.text{
+    color: #fff;
+}
+
 #spanWho {
     color: rgb(20, 223, 20);
     font-weight: 600;
